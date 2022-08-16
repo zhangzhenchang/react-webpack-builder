@@ -1,5 +1,5 @@
 {
-  "name": "builder-webpack",
+  "name": "react-webpack-builder",
   "version": "1.0.2",
   "description": "webpack的配置集成",
   "main": "index.js",
